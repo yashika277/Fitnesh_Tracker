@@ -32,7 +32,7 @@ dbConnect();
 
 app.get("/", (req, res) => {
     res.send(
-      "<center><h1>Fitness Tracker Application</h1><br>Get Recipe Api <a href=https://github.com/Devanshiballar/-Fitness_Tracker_Application.git target=_blank>Repository :Fitness Tracker Application</a></center>"
+      "<center><h1>Fitness Tracker Application</h1><br>Get Recipe Api <a href=https://github.com/yashika277/Fitnesh_Tracker.git target=_blank>Repository :Fitness Tracker Application</a></center>"
     );
   });
 
